@@ -1,0 +1,17 @@
+C:\Users\theha\cs_event\bin\Debug\net6.0\cs_event.exe
+C:\Users\theha\cs_event\bin\Debug\net6.0\cs_event.deps.json
+C:\Users\theha\cs_event\bin\Debug\net6.0\cs_event.runtimeconfig.json
+C:\Users\theha\cs_event\bin\Debug\net6.0\cs_event.dll
+C:\Users\theha\cs_event\bin\Debug\net6.0\cs_event.pdb
+C:\Users\theha\cs_event\obj\Debug\net6.0\cs_event.csproj.AssemblyReference.cache
+C:\Users\theha\cs_event\obj\Debug\net6.0\cs_event.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theha\cs_event\obj\Debug\net6.0\cs_event.AssemblyInfoInputs.cache
+C:\Users\theha\cs_event\obj\Debug\net6.0\cs_event.AssemblyInfo.cs
+C:\Users\theha\cs_event\obj\Debug\net6.0\cs_event.csproj.CoreCompileInputs.cache
+C:\Users\theha\cs_event\obj\Debug\net6.0\cs_event.dll
+C:\Users\theha\cs_event\obj\Debug\net6.0\refint\cs_event.dll
+C:\Users\theha\cs_event\obj\Debug\net6.0\cs_event.pdb
+C:\Users\theha\cs_event\obj\Debug\net6.0\cs_event.genruntimeconfig.cache
+C:\Users\theha\cs_event\obj\Debug\net6.0\ref\cs_event.dll
+C:\Users\theha\cs_event\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\theha\cs_event\obj\Debug\net6.0\cs_event.csproj.CopyComplete
